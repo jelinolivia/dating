@@ -4,9 +4,9 @@ const TelegramBot = require('node-telegram-bot-api');
 // ========================================
 // 🔥 KONFIGURASI BOT
 // ========================================
-const BOT_TOKEN = '8079421257:AAGmmHUKlqLWXyN-rD1uZxaWW3EXlHokhzY'; // Ganti dengan token bot Anda dari @BotFather
-const ADMIN_ID = '6291845861'; // Ganti dengan ID Telegram admin (angka, bukan username)
-const CHANNEL_ID = '-1002672270285'; // Ganti dengan ID channel (angka, bukan @username)
+const BOT_TOKEN = '8197411375:AAHrbvwRUDyeYnm38X04AMAbIretywpju24; // Ganti dengan token bot Anda dari @BotFather
+const ADMIN_ID = '8132833174'; // Ganti dengan ID Telegram admin (angka, bukan username)
+const CHANNEL_ID = '-1002936735925'; // Ganti dengan ID channel (angka, bukan @username)
 
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 
